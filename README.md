@@ -1,2 +1,2 @@
 # SerenetyAutomation
-Prueba de serenety con appium 
+Prueba de serenety con appium bdd
